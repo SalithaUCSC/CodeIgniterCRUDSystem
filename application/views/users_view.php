@@ -21,14 +21,6 @@
 
 <a href="<?php echo base_url('Crud') ?>"><button  class='btn btn-danger' style="margin-bottom: 50px;">Back</button></a>
 
-<?php if ($this->session->flashdata('success')) {?>
-        <div class="alert alert-success alert-dismissible" role="alert">
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-            <?php echo $this->session->flashdata('success'); ?>
-        </div>
-<?php } ?>
     <table class="table table-striped">
 
         <tr>
