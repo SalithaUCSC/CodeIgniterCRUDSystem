@@ -1,5 +1,7 @@
 CodeIgniter System to perform Create, Retrieve, Update and Delete functions connecting to a database
 ===
+### Read the instructions below to the screenshots to run the project.
+
 ![crud1](https://user-images.githubusercontent.com/23145752/34388971-dcda15ac-eb5c-11e7-913d-58a9695715b4.png)
 ---
 ![crud2](https://user-images.githubusercontent.com/23145752/34388936-a7ae0320-eb5c-11e7-9c63-d8976e7f10e7.png)
